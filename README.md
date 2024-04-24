@@ -7,7 +7,7 @@ Pacotes:
 - model
 - repository
 
-## Ainda em desenvolvimento, necessárias refatorações.
+## !!! Ainda em desenvolvimento, necessárias várias refatorações !!!
 
 
 Uso do OpenAPI:
