@@ -7,8 +7,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.api.ecommerce.controller.model.Product;
-import br.com.api.ecommerce.controller.repository.ProductRepository;
+import br.com.api.ecommerce.model.Product;
+import br.com.api.ecommerce.repository.ProductRepository;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 
